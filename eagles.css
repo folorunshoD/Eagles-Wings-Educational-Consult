@@ -1,0 +1,59 @@
+body{
+          background-color:rgb(128,0,32);
+          width: 100%;
+}
+img{
+          height: 100px;
+          width: 200px;
+          
+          
+}
+.heading {color: green;
+font-size: 20px;
+font-family: Sans-Serif,Monospace,Fantasy;
+          
+}
+.pics{
+          height: 200px;
+          width: 300;
+}
+nav {
+    padding: 50px 0;
+    min-width: 100%; 
+}
+nav ul {
+    background: linear-gradient(90deg, 
+     rgba(128, 0, 32, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%,
+rgba(255, 255, 255, 0) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    padding: 10px; 
+    color: Blue;
+    font-size: 18px;
+    font-family: Arial;
+    text-decoration: none;
+    display: block;
+ }
+ p{
+           color: green;
+           text-align: center;
+           font-size: 40px;
+           word-spacing: 0.9px;
+           font-family: Segoe UI,Comic Sans MS,Monospace;
+ }
+ h2{
+           text-align: center;
+ background-color: #fff44f;
+           font-size: 40px;
+           font-weight:10px;
+           text-indent: 2px;
+           font-family: Monospace;
+           
+ }
